@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arduino temporary files
 *.hex
 *.elf
@@ -8,4 +9,16 @@
 
 # Temporary files
 *.tmp
+=======
+# Arduino temporary files
+*.hex
+*.elf
+*.o
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+>>>>>>> 2e3a711a3ea9801dc1dc543e548c63c363fec392
 *.log

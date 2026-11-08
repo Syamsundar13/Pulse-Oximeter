@@ -2,7 +2,7 @@
 #include "MAX30105.h"
 #include "heartRate.h"
 
-MAX30105 particleSensor;
+MAX30105 particleSensor;    
 
 void setup() {
   Serial.begin(9600);
